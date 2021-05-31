@@ -7,5 +7,5 @@ public class haromszog {
 		hprint hp = new hprint();
 		hp.prnum();
 	}
-
+//a
 }
