@@ -9,5 +9,6 @@ public class haromszog {
 	}
 //a
 //b
-//d
+//c
+//d	
 }
